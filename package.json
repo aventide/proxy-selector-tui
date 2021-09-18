@@ -1,0 +1,18 @@
+{
+  "name": "proxy-selector-tui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "terminal-kit": "^2.1.6"
+  },
+  "proxy": "beta1",
+  "proxy-alpha10": "alpha10",
+  "proxy-alpha5": "alpha5"
+}
